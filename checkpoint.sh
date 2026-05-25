@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/projects/jse-agent
+cd ~/.openclaw/workspace
 
 git add .
 
