@@ -1,0 +1,4 @@
+nano WORKFLOW.md
+nano CURRENT_OBJECTIVE.md
+nano KNOWN_FAILURES.md
+nano NEXT_ACTIONS.md
